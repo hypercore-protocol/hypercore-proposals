@@ -1,4 +1,4 @@
-# HYP
+# Hypercore Proposals
 
 This repository contains a series of "HYpercore Proposal" (HYP)
 documents, part of the hypercore protocol development and standardization process.
